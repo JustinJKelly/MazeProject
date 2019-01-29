@@ -1,7 +1,12 @@
 # MazeProject
 This project has several classes which create a maze and has a GUI that displays the maze and solves the maze.
 The projects takes in a integer n(up to 75) and creates a solvable nxn maze. It can also take in a formated
-file and will construct that maze based on the contents. 
+file and will construct that maze based on the contents. In order to execute the jar executable, you must have 
+Java and JavaFX installed on your device. First, you need to download the Maze.jar file from the repository. 
+Also download the maze.txt and maze2.txt if you want to use files as input instead of a integer. Put the .txt
+files and Maze.jar in a folder on your device. Go to the command line and navigate to the folder where the 
+files are. Then run the command, java -jar Maze.jar, and the program will run. Must use valid input to run 
+program.
 
 Maze.java
 
