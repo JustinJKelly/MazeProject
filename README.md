@@ -8,6 +8,7 @@ files and Maze.jar in a folder on your device. Go to the command line and naviga
 files are. Then run the command, java -jar Maze.jar, and the program will run. Must use valid input to run 
 program.
 
+
 Maze.java
 
 This class defines fields used for the maze object and the constructor
